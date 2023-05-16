@@ -1,0 +1,37 @@
+.container {
+    max-width: 1536px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.container .gpd-container {
+    width: 100%;
+}
+
+body {
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-position: center center !important;
+}
+
+.container .swiper-slide object {
+    width: 100%;
+}
+
+.container #i7rejv .swiper-container .swiper-slide img {
+    width: 100% !important;
+    height: auto;
+}
+
+.container .swiper-container .swiper-slide .cell img {
+    width: 100% !important;
+}
+
+.container #ik9c {
+    height: 1000px;
+}
+
+body,
+html {
+    height: unset !important;
+}
